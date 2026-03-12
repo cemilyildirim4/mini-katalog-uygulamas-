@@ -15,7 +15,6 @@ Bu proje Flutter kullanılarak geliştirilmiş basit bir ürün katalog uygulama
 
 * Flutter
 * Dart
-* Material Design
 
 ## Proje Yapısı
 
