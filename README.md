@@ -1,6 +1,14 @@
-# Mini Katalog Uygulaması
+# Proje Adı
+
+Mini Katalog Uygulaması
+
+## Kısa Açıklama
 
 Bu proje Flutter kullanılarak geliştirilmiş basit bir ürün katalog uygulamasıdır. Kullanıcılar ürünleri görüntüleyebilir, ürün detaylarını inceleyebilir ve ürünleri sepete ekleyebilir.
+
+## Kullanılan Flutter Sürümü
+
+Flutter 3.41.4
 
 ## Özellikler
 
@@ -13,6 +21,7 @@ Bu proje Flutter kullanılarak geliştirilmiş basit bir ürün katalog uygulama
 
 ## Kullanılan Teknolojiler
 
+* VS Code
 * Flutter
 * Dart
 
@@ -23,11 +32,11 @@ Bu proje Flutter kullanılarak geliştirilmiş basit bir ürün katalog uygulama
 * **pages**: Ana sayfa, ürün detay sayfası ve sepet sayfası
 * **widgets**: Ürün kartı bileşeni
 
-## Çalıştırma
+## Çalıştırma Adımları
 
 Projeyi çalıştırmak için:
 
-```bash
+```
 flutter pub get
 flutter run
 ```
